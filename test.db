@@ -1,0 +1,11 @@
+EMPLOYEE
+ID:I,FNAME:A15,LNAME:A15,AGE:I,SALARY:F,DEPT:A15
+1,Bob,Bark,24,90000,R&D
+2,Jim,Hoppen,36,80000,Marketing
+3,Mark,Wessels,80,0,Retired
+4,John,Peterson,15,28000,Student
+5,Sally,Coffin,19,28000,Student
+8,Mary,Park,32,45000,Reception
+9,Antonette,Major,41,50000,Shipping
+10,Katy,Wright,23,23000,Cafe
+#####
